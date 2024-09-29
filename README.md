@@ -26,18 +26,22 @@ RDP：白名单放行界面
 
 
 4、SSH远程登录告警
+
  ![图片](https://github.com/user-attachments/assets/e0d97a33-4700-4aa1-bd39-31550c3f4d76)
 
 
 5、Sql注入监控告警
+
  ![图片](https://github.com/user-attachments/assets/bc819fb0-46b7-4e33-aa4d-74f117f9ecbe)
 
 
 6、指定目录文件监控(上传木马类文件监控)
+
  ![图片](https://github.com/user-attachments/assets/2b55d4ac-ba03-4266-b550-b84904c0278a)
 
 
 7、应用状态告警（端口或网站接口监控）
+
  ![图片](https://github.com/user-attachments/assets/37454bdc-f2de-48ba-8c08-c209985c9078)
 
 
