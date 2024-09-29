@@ -22,6 +22,10 @@ Webshell下执行命令 钉钉告警
  
 其他程序告警：
 
+![图片](https://github.com/user-attachments/assets/776df4d1-a0e0-4102-b4b0-81a5fd80ac4c)
+
+
+
 3、RDP远程登录告警并及时阻断(可设置远程RDP机器的白名单)
 
 RDP：白名单放行界面
