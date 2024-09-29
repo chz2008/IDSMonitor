@@ -1,13 +1,18 @@
 # IDSMonitor
 护网神器，手搓入侵检测工具。可以利用其捕获0Day、目录恶意文件上传监控、注入、黑客常用工具等等入侵行为监控。
-护网神器-手搓入侵检测工具-应用状态监控-可以利用其捕获0Day等入侵行为
+护网神器-手搓入侵检测工具-应用状态监控-可以利用其捕获0Day等入侵行为。
+
 1、CS或Webshell或本地命令执行检测告警
+
 CS执行命令钉钉告警：
+
  ![图片](https://github.com/user-attachments/assets/e99894be-e543-4851-8a05-47a74cb55a2a)
 
 
 Webshell下执行命令 钉钉告警
+
 ![图片](https://github.com/user-attachments/assets/cdae62c6-231c-48ef-82bb-c669978634d5)
+
 
 ![图片](https://github.com/user-attachments/assets/9e546420-c2ff-4eee-af4e-a8741f33ad01)
 
@@ -16,12 +21,16 @@ Webshell下执行命令 钉钉告警
 
  
 其他程序告警：
+
 3、RDP远程登录告警并及时阻断(可设置远程RDP机器的白名单)
+
 RDP：白名单放行界面
+
  ![图片](https://github.com/user-attachments/assets/8df093f1-53b0-4d25-829e-74ff88bc326c)
 
 
 如果不是白名单IP登录，会钉钉告警，并阻断RDP远程连接：
+
 ![图片](https://github.com/user-attachments/assets/ec23296b-39b5-490e-9b25-92641f7f9520)
 
 
